@@ -1,0 +1,246 @@
+{
+    "toprated": "Persian Taste",
+    "topscore": 37,
+    "worstrated": "Bhan Thai",
+    "worstscore": 7.5,
+    "totalreviews": 15,
+    "restaurants": [
+        {
+            "restaurant": "Sea Chef",
+            "address": "22 The Broadway Potters Bar EN6 2HT",
+            "lastreviewdate": "2023-10-26",
+            "reviewcount": 2,
+            "averagescore": 29.5,
+            "reviews": [
+                {
+                    "reviewdate": "2023-10-26",
+                    "reviewer": "H",
+                    "cost": 5,
+                    "size": 6,
+                    "flavour": 6,
+                    "texture": 6,
+                    "value": 8,
+                    "total": 31,
+                    "review": "Honestly the meal wasn't that bad, I was shocked to find a Fish, Chips, Pizza, Kebab & Chicken place actually had decent wings. It fills a hole at least. The flavour and texture wasn't that bad, a grilled lightly marinated wing, so pretty basic, it said spicy wings but I couldn't really taste any of the spice. The meal (£9) comes with salad and chips or rice, which is good value however I would say the chips were super meh, so doesn't really help."
+                },
+                {
+                    "reviewdate": "2023-10-26",
+                    "reviewer": "C",
+                    "cost": 4,
+                    "size": 5,
+                    "flavour": 5,
+                    "texture": 6,
+                    "value": 8,
+                    "total": 28,
+                    "review": "Fish, chips, pizza, kebabs, pies... and chicken wings? Yeah Sea Chef do wings, which was worrying to think about. However they were a surprise to experience. The wings are grilled over coals, much the same as the ones from Aksular which was reviewed before. They were said to be spicy, but this wasn't really noticeable and was spices sprinkled on during the cooking process. I feel like a lot of the flavour comes from the chilli and garlic sauce that was poured on top. The wings could have done with being crispier, but the texture was good. Better than a lot of others on here. Price wise, they are not cheap with the wings alone coming in at £6 and a meal coming in at £9 but they are also not crazy money. The value of the meal however is pretty good for the price, its a large portion of rice and salad along with the wings themselves. There was a strange smell to the wings however which I can only think is kind of fishy which makes sense since it is a fish shop. Not a wing place I would race back to have again, but not one I would refuse to enter."
+                }
+            ]
+        },
+        {
+            "restaurant": "Favourite Chicken",
+            "address": "1 Princes Parade, Potters Bar EN6 5AE",
+            "lastreviewdate": "2023-10-18",
+            "reviewcount": 2,
+            "averagescore": 34,
+            "reviews": [
+                {
+                    "reviewdate": "2023-10-18",
+                    "reviewer": "H",
+                    "cost": 7,
+                    "size": 6,
+                    "flavour": 5,
+                    "texture": 7,
+                    "value": 8,
+                    "total": 33,
+                    "review": "When I get nightmares of my childhood I think of many things, my mother, the area I grew up in, the constant sleeps on the street not knowing if i'll be safe, but there's one thing I'll also have comfort with.... dodgy chicken shops. This would be the closest Potters Bar has to absolute trash bottom of the barrel midnight drunk wings. Crispy deep fried spicy wings, with chips & a drink for £5. We sat in for the authentic chicken shop experience of course. Boss man didn't bless us with an extra wing but maybe supply is tough around these white parts.                    Texture was crispy, probably my favourite part. Flavour is your usual authentic spicy wing from these kind of shops, I wouldn't say top tier, but it satisfied me. Also you get a strawberry Mirinda, whats not to love."
+                },
+                {
+                    "reviewdate": "2023-10-18",
+                    "reviewer": "C",
+                    "cost": 8,
+                    "size": 6,
+                    "flavour": 6,
+                    "texture": 6,
+                    "value": 9,
+                    "total": 35,
+                    "review": "Known for their chicken, and one of the common places you see around you expect a certain quality. This rating is for the fried version, a grilled review may be required another day. Cost is great at only £5 for the 6 wing meal. Value as a whole this comes with chips and a drink... they should get bonus points for this being a Marinda. Size are what you expect for a chicken shop, which is always good when they are fried. Flavour they are just above average, better than basic but not up there with the best of them. Texture, they were crispy and the meat was well cooked"
+                }
+            ]
+        },
+        {
+            "restaurant": "Papa Johns",
+            "address": "26 Wyllyotts Ln Potters Bar EN6 2HW",
+            "lastreviewdate": "2023-10-11",
+            "reviewcount": 2,
+            "averagescore": 16,
+            "reviews": [
+                {
+                    "reviewdate": "2023-10-11",
+                    "reviewer": "H",
+                    "cost": 2,
+                    "size": 4,
+                    "flavour": 5,
+                    "texture": 3,
+                    "value": 2,
+                    "total": 16,
+                    "review": "Kind of the same as Dominos, but it was saved by the sauce. BBQ flavor that I enjoyed but it seems like an acquired yet alcoholy taste. The wings themselves were almost £8 so honestly it's not worth going here for 6 wings for that price. Texture wasn't anything to cheer about, similar to Dominos, just completely wet and soft."
+                },
+                {
+                    "reviewdate": "2023-10-11",
+                    "reviewer": "C",
+                    "cost": 2,
+                    "size": 4,
+                    "flavour": 4,
+                    "texture": 4,
+                    "value": 2,
+                    "total": 16,
+                    "review": "Papa Johns, well known for their wings... oh no wait... they are wings, and they are sold by Papa Johns. Hopes were not high, and they met the very low expectations that you would expect. Unlike other popular pizza places, the wings were not terrible but they will not be wings I would rush back to get again. They are very expensive for what you get, just wings on their own at more than £1 a wing. Not worth the money. The size was ok and not really worth complaining or raving about. the flavour was saved by them being BBQ but not enough to make them memorable. Texture wise, they are better than Dominoes which felt boiled but not a crisp wing you want."
+                }
+            ]
+        },
+        {
+            "restaurant": "Bhan Thai",
+            "address": "23-25 Darkes Ln Potters Bar EN6 2HX",
+            "lastreviewdate": "2023-09-27",
+            "reviewcount": 2,
+            "averagescore": 7.5,
+            "reviews": [
+                {
+                    "reviewdate": "2023-09-27",
+                    "reviewer": "H",
+                    "cost": 1,
+                    "size": 1,
+                    "flavour": 1,
+                    "texture": 2,
+                    "value": 1,
+                    "total": 6,
+                    "review": "I have no words to describe the disappointment I feel in these wings. I understand that it's not on the main menu, and only on the lunch menu, but these for £6.50 is a disgrace. In fact they should have their wing license revoked for even selling these. You don't get a side with them so have to buy it separately, as it's a starter. The size is ridiculous, you'd get more chicken in a mcdonalds nugget than on these wings! I could go to Greggs, get a pot of popcorn chicken and get more actual chicken in a £2.50 box than these £6.50 wings!!! Bottom of the barrel. I understand though that this place shouldn't been known for it's wings, and the meals must be great, but still, shame on them."
+                },
+                {
+                    "reviewdate": "2023-09-27",
+                    "reviewer": "C",
+                    "cost": 2,
+                    "size": 1,
+                    "flavour": 1,
+                    "texture": 4,
+                    "value": 1,
+                    "total": 9,
+                    "review": "These wings have the flavour of \"cooked\", yup... that's all. They were cooked. Maybe, just maybe they used salt! They were also with out a doubt the smallest wings I have ever seen. Texture wise they were ok, barely. They at least were not soft mush and had some bite to them but were not tough. The biggest let down of them all... yes worse than the lack of flavour... was the price. £6.50 for the 6 smallest wings that have ever been seen on a chicken... was it chicken? That is a real question that should be asked here with how small they were. The price comes with nothing but the wings. In the defence of Bham Thai, wings are not actually on the menu. They are a starter as part of some lunch time special which I imagine no one orders. There was high hopes of a great Thai flavoured wing, instead just left with the taste of sadness and disappointment"
+                }
+            ]
+        },
+        {
+            "restaurant": "Dominoes",
+            "address": "Metropolitan House, 9a Darkes Ln, Potters Bar EN6 1AZ",
+            "lastreviewdate": "2023-09-20",
+            "reviewcount": 2,
+            "averagescore": 13.5,
+            "reviews": [
+                {
+                    "reviewdate": "2023-09-20",
+                    "reviewer": "H",
+                    "cost": 2,
+                    "size": 5,
+                    "flavour": 2,
+                    "texture": 2,
+                    "value": 1,
+                    "total": 13,
+                    "review": "If you want to spend £10.99 to get no-seasoned wings that were soft, floppy, and frankly extremely disappointing, Domino's is the place for you. Don't worry you also get wedges, that I would describe as terrible considering you could walk 10 meters to McDonalds and get better fries there."
+                },
+                {
+                    "reviewdate": "2023-09-20",
+                    "reviewer": "C",
+                    "cost": 2,
+                    "size": 5,
+                    "flavour": 3,
+                    "texture": 2,
+                    "value": 2,
+                    "total": 14,
+                    "review": "The basic wings combo, the wings are.... basic. There is no flavor, the texture is really odd in that they are soft. We know they were grilled as we saw it happen but its like they were slow boiled and then fast grilled. The size of the wings was OK, bang on average for wings and it was a mix of dummies and flats. Included in the combo at £10.99 is wedges but they are average as well. They are way too expensive for really crap wings. After that meal I was still hungry enough to have to go and get something else to eat"
+                }
+            ]
+        },
+        {
+            "restaurant": "Persian Taste",
+            "address": "110 Darkes Ln, Potters Bar EN6 1AE",
+            "lastreviewdate": "2023-09-14",
+            "reviewcount": 2,
+            "averagescore": 37,
+            "reviews": [
+                {
+                    "reviewdate": "2023-09-14",
+                    "reviewer": "H",
+                    "cost": 7,
+                    "size": 7,
+                    "flavour": 8,
+                    "texture": 7,
+                    "value": 9,
+                    "total": 38,
+                    "review": "The wings deal for £4.99 is the meal deal in Potters Bar, hands down. For that price you get 6 wings, chips and a drink, which is great value, I believe that value is purely based on the taste of the wings & the great chips. Boss man also blessed me with a turkish fanta, which would have cost extra. Only issue I will have for the texture is the wings you get are all flats, which some people do not prefer. Skins crispy, and I like the mild lemon & tumeric flavour that the marinade provides, you can also get this marinade on the regular chicken in the wraps. If you want chicken wings & chips in a box, this is the go to place in PB for value."
+                },
+                {
+                    "reviewdate": "2023-09-14",
+                    "reviewer": "C",
+                    "cost": 8,
+                    "size": 6,
+                    "flavour": 6,
+                    "texture": 7,
+                    "value": 9,
+                    "total": 36,
+                    "review": "Ordering wings on their own is not worth while, however this review is based on the lunch time special. £4.99 for 6 wings, chips and a drink is a great deal. The value for the entire meal is unbelievable. The wings on their own is the same price as the meal however. The wings are the flat side only, and are pretty average in size, no complaints here as they are not small, but they are not worthy of any bonus points above average. Flavour if the wings is very mild, similar to what you would get in a kebab, but with less spice. There is nothing in the flavour that costs points, but not much to earn them any points. The dominant flavour is tumeric, which isnt much of a flavour. The texture of the wings doesn't match the visual appearance, they look like they are going to have a nice crispy skin, however they are just the same soft tender that they are throughout. If they had a crisp to the skin they would be phenomenal. Aside from the wings, when looking at the meal as a whole you are getting good wings, for a great price, a drink and what are arguably the best chips in the area. Deserving of high praise, all things considered."
+                }
+            ]
+        },
+        {
+            "restaurant": "Admiral Byng (Wetherspoons)",
+            "address": "186-192 Darkes Ln, Potters Bar EN6 1AF",
+            "lastreviewdate": "2023-09-06",
+            "reviewcount": 2,
+            "averagescore": 16.5,
+            "reviews": [
+                {
+                    "reviewdate": "2023-09-06",
+                    "reviewer": "H",
+                    "cost": 5,
+                    "size": 2,
+                    "flavour": 2,
+                    "texture": 4,
+                    "value": 2,
+                    "total": 15,
+                    "review": "I don't know where to start, I didn't expect much but I also didn't expect this. I'll give it average on cost because I got the 5 wings which was £3.41, which is not bad for 5 wings nowadays, however the amount of meat you get per wing might as well throw that out the window, tiny ass wings, all flats if you get the 5 wings side. Flavour was a light buffalo that tasted like nothing but a tiny kick. Texture was below average, only compliment I can give is the skin was crispy, however because the middle was microwave pipping hot, I feel like I bit into a lie. Value I will say a 2, I ordered chips as a side and they were worse than the wings, even if the wings were £2 I would say the 5 were not worth it."
+                },
+                {
+                    "reviewdate": "2023-09-06",
+                    "reviewer": "C",
+                    "cost": 5,
+                    "size": 3,
+                    "flavour": 3,
+                    "texture": 3,
+                    "value": 4,
+                    "total": 18,
+                    "review": "The wings can be ordered on their own (as a side) which keeps the price down for the 5 wings. Doing so removes the need to eat the god awful chips that the spoons do. The wing size is very small and in order to get enough for a meal the order of 10 is needed. However comparing a standard wings order of approx 5 the price is reasonable at £3.41. The flavour profile feels like a very weak buffalo, and a side pot of sauce does not come with the 5 wing order, only the 10. This pot is needed to give any real flavor to them. Texture, the outside is very crispy and the inside is sub par, this is how you would expect microwaved wings to feel inside. Its like they microwaved them, and then threw them in hot oil for a few seconds to give them some crisp."
+                }
+            ]
+        },
+        {
+            "restaurant": "Aksular",
+            "address": "140 Darkes Ln Potters Bar EN6 1AF",
+            "lastreviewdate": "2023-08-25",
+            "reviewcount": 1,
+            "averagescore": 28,
+            "reviews": [
+                {
+                    "reviewdate": "2023-09-06",
+                    "reviewer": "C",
+                    "cost": 3,
+                    "size": 6,
+                    "flavour": 6,
+                    "texture": 6,
+                    "value": 7,
+                    "total": 28,
+                    "review": "They are expensive for a wings meal, but do come as a full meal with rice/chips, salad and Turkish bread (didn't even finish the meal it was too much). The flavour of the wings almost exclusively comes from the fact they are cooked on charcoal, and there is very little from marinade. This flavour profile is not for everyone, but is one I do enjoy. Texture, the outside is crispy but the meat does pull away easy. They are not tough, but are also not juicy. Size wise, they are a little above average. They are not BIG wings, but are also not tiny."
+                }
+            ]
+        }          
+    ]
+}
