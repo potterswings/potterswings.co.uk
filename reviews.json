@@ -3,7 +3,7 @@
     "topscore": 37,
     "worstrated": "Bhan Thai",
     "worstscore": 7.5,
-    "totalreviews": 15,
+    "totalreviews": 16,
     "restaurants": [
         {
             "restaurant": "Sea Chef",
@@ -226,9 +226,20 @@
             "restaurant": "Aksular",
             "address": "140 Darkes Ln Potters Bar EN6 1AF",
             "lastreviewdate": "2023-08-25",
-            "reviewcount": 1,
-            "averagescore": 28,
+            "reviewcount": 2,
+            "averagescore": 27,
             "reviews": [
+                {
+                    "reviewdate": "2023-09-06",
+                    "reviewer": "H",
+                    "cost": 3,
+                    "size": 6,
+                    "flavour": 5,
+                    "texture": 6,
+                    "value": 6,
+                    "total": 26,
+                    "review": "Cost is ridiculous for a wings meal, , but breads good, I switched out rice for chips and the chips wasn't exactly a top tier chip. I didn't enjoy the charcoal flavour because that was the only flavour, didn't taste a sauce or marinade really. I like the crispy skin and the meat quality is good, so I will praise that. Size was small, both drums & flats."
+                },
                 {
                     "reviewdate": "2023-09-06",
                     "reviewer": "C",
