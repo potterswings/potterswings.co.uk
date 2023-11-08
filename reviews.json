@@ -1,10 +1,40 @@
 {
-    "toprated": "Persian Taste",
-    "topscore": 37,
+    "toprated": "Relish Real Burgers",
+    "topscore": 37.5,
     "worstrated": "Bhan Thai",
     "worstscore": 7.5,
     "totalreviews": 16,
     "restaurants": [
+        {
+            "restaurant": "Relish Real Burgers",
+            "address": "35 High St, Potters Bar EN6 5AJ",
+            "lastreviewdate": "2023-11-08",
+            "reviewcount": 2,
+            "averagescore": 37.5,
+            "reviews": [
+                {
+                    "reviewdate": "2023-11-08",
+                    "reviewer": "H",
+                    "cost": 6,
+                    "size": 8,
+                    "flavour": 9,
+                    "texture": 9,
+                    "value": 6,
+                    "total": 38,
+                    "review": "Oh my lord, the new chef has come to town and he's not playing around. I tried two different types of wings here, BBQ and Original spicy. The BBQ sauce wasn't something I'd get again but the wing itself was delightful. Breaded and fried, crispy, juicy in the middle and it slid off the bone. The original spicy was a classic spicy deep fried wing, an example of how a wing should be made & cooked. Now the only thing that lets it down is the cost & value. For £5 for just 5 wings, it's not a great deal. Great wings but not a great deal."
+                },
+                {
+                    "reviewdate": "2023-11-08",
+                    "reviewer": "C",
+                    "cost": 6,
+                    "size": 7,
+                    "flavour": 8,
+                    "texture": 9,
+                    "value": 7,
+                    "total": 37,
+                    "review": "The wings... oh my the wings... they were amazing. The crunch was just amazing, even after having to go through the delivery process. The flavour of just the basic Original Spicy wings were fantastic, and then you can add additional sauces they get tossed in. This does impact the crunch, but only a little. The wings themselves come in at £5 which for 5 wings isn't too bad is kind of becoming a standard price now. Its around what you pay at the likes of KFC. They are well worth the £5, I wouldn't even be mad to pay more... there is no way I could turn down another order of these wings."                }
+            ]
+        },
         {
             "restaurant": "Sea Chef",
             "address": "22 The Broadway Potters Bar EN6 2HT",
