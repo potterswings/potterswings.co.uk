@@ -3,8 +3,101 @@
     "topscore": 37.5,
     "worstrated": "Bhan Thai",
     "worstscore": 7.5,
-    "totalreviews": 16,
+    "totalreviews": 19,
     "restaurants": [
+	    {
+            "restaurant": "Bones Wing & Burger Bar",
+            "address": "22, Cranborne Parade, Mutton Ln, Potters Bar EN6 3BA",
+            "lastreviewdate": "2023-12-13",
+            "reviewcount": 2,
+            "averagescore": 24,
+            "reviews": [
+                {
+                    "reviewdate": "2023-12-13",
+                    "reviewer": "H",
+                    "cost": 2,
+                    "size": 5,
+                    "flavour": 4,
+                    "texture": 7,
+                    "value": 4,
+                    "total": 22,
+                    "review": "I ordered the plain wings, now most wings we order are usually the plain wings, or "original" wings. However what I think Bones do is pretty weird. All of their sauces are great, solid 10/10 sauces, however their chicken is lackluster, no marinade or seasoning. So even for a plain deep fried wing, it's still kind of plain, even the breading isn't much to be desired. I will say 7 wings is a pleasant surprise, instead of the usual 6. For the price though I don't think I'd get the plain wings again, more of a sauce place than a chicken place."
+                },
+                {
+                    "reviewdate": "2023-12-13",
+                    "reviewer": "C",
+                    "cost": 2,
+                    "size": 6,
+                    "flavour": 6,
+                    "texture": 8,
+                    "value": 4,
+                    "total": 26,
+                    "review": "What is very important to note about Bones is that they are all about the sauce that goes on the wings. To do a good clean review I went with plain to know what the wings actually were decent but lacking a little flavour. The price is high at £9.50, but for this you are getting 7 wings in the box. When you add a sauce (even just getting it as a side for dunking) the wings flavour is MUCH better... yes thats obvious, but we are not reviewing every flavour option, but instead reviewing the actual quality of the wings themselves. They have a weird but good breaded coating that when going plain is nice and crispy. Its frustrating that for this price you only get wings. Over prices for what they are, there are much better options in the area."
+				}
+            ]
+        },
+	    {
+            "restaurant": "OH My Cod",
+            "address": "39 Darkes Ln, Potters Bar EN6 1BJ",
+            "lastreviewdate": "2023-12-06",
+            "reviewcount": 2,
+            "averagescore": 19,
+            "reviews": [
+                {
+                    "reviewdate": "2023-12-06",
+                    "reviewer": "H",
+                    "cost": 1,
+                    "size": 8,
+                    "flavour": 4,
+                    "texture": 7,
+                    "value": 1,
+                    "total": 21,
+                    "review": "Okay, this is the weirdest review. First when we called to order for collection, they didn't know wings were on the menu. Then we proceeded to still wait like 15 minutes for the food. Now the size & texture was pretty decent, some of the biggest wings we've had so far and crispy but not over crispy. However, it's £6.50 for 4 wings.... four.... In terms of value I'll give this a 1 based on it doesn't come with anything, oh and it's £6.50 for 4 wings. I hope they take it off the menu because it being on there is either money laundering or a pyramid scheme in disguise"
+                },
+                {
+                    "reviewdate": "2023-12-06",
+                    "reviewer": "C",
+                    "cost": 1,
+                    "size": 6,
+                    "flavour": 2,
+                    "texture": 7,
+                    "value": 1,
+                    "total": 17,
+                    "review": "Chasing the title of worst wings in Potters Bar, these wings have a bit of a fishy taste which makes sense, they are a chippy. Size and texture were good, but they are overshadowed by the fishy taste and the horrid taste of the £6.50 price tag for just 4 wings!! There is no value here, they should probably get a zero.  It upsets me to even think about the price of these wings."
+				}
+            ]
+        },
+        {
+            "restaurant": "Pottys Kebabs",
+            "address": "73 High St, Potters Bar EN6 5AS",
+            "lastreviewdate": "2023-11-29",
+            "reviewcount": 2,
+            "averagescore": 31,
+            "reviews": [
+                {
+                    "reviewdate": "2023-11-29",
+                    "reviewer": "H",
+                    "cost": 3,
+                    "size": 6,
+                    "flavour": 7,
+                    "texture": 6,
+                    "value": 9,
+                    "total": 31,
+                    "review": "Honestly? I delightful meal. For £12 you get Wings, Chips, turkish bread thats toasted in meat juices, salad and sauce... SO MUCH SAUCE! The wings themselves were pretty decent, grilled but I found them cooked and marinated better than any other grilled place I've been to. Chips were pretty good too, however they were doused in vinegar. Bread was delicious and the sauce was top tier. As value goes this is one of the best meals in Potters Bar."
+                },
+                {
+                    "reviewdate": "2023-11-29",
+                    "reviewer": "C",
+                    "cost": 3,
+                    "size": 7,
+                    "flavour": 7,
+                    "texture": 6,
+                    "value": 8,
+                    "total": 31,
+                    "review": "Potty's Kebabs, are much like other kebab places that do wings. Rather than just being wings they come through as a large meal. They are expensive if you just want wings, but if you are after a full meal they are well worth it. The wings themselves are well cooked, and have a great texture. Their flavour mostly comes from being cooked over the coals, but they do make sure to sprinkle a seasoning on during the cooking process which adds a nice touch. The sides that come with the wings are great, the turkish bread is fantastic and you get a choice of rice or chips. I went with chips and they were great."
+				}
+            ]
+        },
         {
             "restaurant": "Relish Real Burgers",
             "address": "35 High St, Potters Bar EN6 5AJ",
@@ -32,9 +125,10 @@
                     "texture": 9,
                     "value": 7,
                     "total": 37,
-                    "review": "The wings... oh my the wings... they were amazing. The crunch was just amazing, even after having to go through the delivery process. The flavour of just the basic Original Spicy wings were fantastic, and then you can add additional sauces they get tossed in. This does impact the crunch, but only a little. The wings themselves come in at £5 which for 5 wings isn't too bad is kind of becoming a standard price now. Its around what you pay at the likes of KFC. They are well worth the £5, I wouldn't even be mad to pay more... there is no way I could turn down another order of these wings."                }
+                    "review": "The wings... oh my the wings... they were amazing. The crunch was just amazing, even after having to go through the delivery process. The flavour of just the basic Original Spicy wings were fantastic, and then you can add additional sauces they get tossed in. This does impact the crunch, but only a little. The wings themselves come in at £5 which for 5 wings isn't too bad is kind of becoming a standard price now. Its around what you pay at the likes of KFC. They are well worth the £5, I wouldn't even be mad to pay more... there is no way I could turn down another order of these wings."
+				}
             ]
-        },
+        },		
         {
             "restaurant": "Sea Chef",
             "address": "22 The Broadway Potters Bar EN6 2HT",
